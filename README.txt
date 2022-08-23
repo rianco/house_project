@@ -1,1 +1,2 @@
-git is totaly rad!
+git is super cool!
+remotes are awesome!
